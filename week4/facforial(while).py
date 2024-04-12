@@ -10,3 +10,4 @@ while i <= num:
 
 print(total)
 
+
